@@ -157,8 +157,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için [LICENSE]
 
 Sorularınız veya önerileriniz için bir sorun (Issue) oluşturabilir veya aşağıdaki kanallardan bana ulaşabilirsiniz:
 
--   E-posta: ornek@email.com
--   Twitter: [@kullaniciadi](https://twitter.com/kullaniciadi)
+-   E-posta: trkglzgn_05@hotmail.com
 
 ---
 
