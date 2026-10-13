@@ -1,0 +1,738 @@
+{
+    "temel_bilgiler": {
+        "isim": "Mark Zuckerberg",
+        "profil_fotografi": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-1/824997889_10117988912521901_6461829225333448476_n.jpg?stp=c365.27.1364.1364a_dst-jpg_tt6&cstp=mx1364x1364&ctp=s200x200&_nc_cat=1&ccb=1-7&_nc_sid=1d2534&_nc_ohc=Yr0T7qM9GK4Q7kNvwExcnAL&_nc_oc=Ado2pc13WCQhWJAaoPK2d9F2Vrwt0M60RkdMCU0jg3WdwqyJ_3h7GF_ab-4DRjuNRYPqpPv0CtezzuCqV7Lf5H3v&_nc_zt=24&_nc_ht=scontent.fasr1-2.fna&_nc_gid=dfM3--x9IITP1Cd0j1ZBoQ&_nc_ss=7b2a8&oh=00_AQO0a7YNP0ibKqbiTjkCD71CINO-eBJJPefZQBVzcuxOGA&oe=6AD4213F",
+        "kapak_fotografi": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.99422-6/825353060_1566336141376809_3579307936815964564_n.png?stp=dst-jpg_tt6&cstp=mx3366x1246&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=G-yCVCRjFZ0Q7kNvwE7dzcr&_nc_oc=AdoIO9Iz9e-CeTdQudYqAh72GNdGwDo7BVCE3L7-s92wkARxOhcMUHVjSzHvRNFi87zs-d3aBVwIqmty5-2rAM1r&_nc_zt=14&_nc_ht=scontent.fasr1-3.fna&_nc_gid=dfM3--x9IITP1Cd0j1ZBoQ&_nc_ss=7b2a8&oh=00_AQNYUd4HJWaxj8nYPy_L4sA7ORMbCwnY8FaQO8AffrVF-A&oe=6AD4017B"
+    },
+    "hakkinda": {
+        "kisisel_detaylar": [
+            "Palo Alto'da yaşıyor",
+            "Memleketi Dobbs Ferry, New York",
+            "14 Mayıs 1984"
+        ],
+        "yasadigi_yer": "Palo Alto",
+        "memleket": "Dobbs Ferry, New York",
+        "dogum_tarihi": "14 Mayıs 1984"
+    },
+    "paylasimlar": [
+        {
+            "metin": "Sesli gözlükler artık mevcut. En hafif gözlüklerimizde ikonik Ray-Ban stiller: https://www.meta.com/ai-glasses/ray-ban-meta-audio/",
+            "baglanti": "https://www.facebook.com/photo/?fbid=10117988914403131&set=a.743613136151",
+            "begeni_sayisi": 25000,
+            "yorum_sayisi": 4800,
+            "paylasim_sayisi": 545
+        },
+        {
+            "metin": "Muse bana ne düşünceli bir sipariş verdi!",
+            "baglanti": "https://www.facebook.com/photo/?fbid=10118052545171561&set=a.612287952871",
+            "begeni_sayisi": 249800,
+            "yorum_sayisi": 31100,
+            "paylasim_sayisi": 3800
+        },
+        {
+            "metin": "A decade of smoking meats",
+            "baglanti": "https://www.facebook.com/4/videos/pcb.10118046114638401/1071497675692525",
+            "begeni_sayisi": 55600,
+            "yorum_sayisi": 8700,
+            "paylasim_sayisi": 6700
+        },
+        {
+            "metin": "",
+            "baglanti": "https://www.facebook.com/photo/?fbid=10117988914403131&set=a.743613136151",
+            "begeni_sayisi": 411300,
+            "yorum_sayisi": 56300,
+            "paylasim_sayisi": 7500
+        },
+        {
+            "metin": "Meta Connect'ta bugün birçok haber var: Muse için sesli sohbet, tonlarca yeni gözlük, ilk VR gözlüğü ve eğlenceli küçük Muse Charm.",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 189100,
+            "yorum_sayisi": 29800,
+            "paylasim_sayisi": 11000
+        },
+        {
+            "metin": "Meta Connect yarın. Orada görüşürüz",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 207100,
+            "yorum_sayisi": 27700,
+            "paylasim_sayisi": 7900
+        },
+        {
+            "metin": "Bu benim Muse'm -- Agrippa.\nMuse muse.ai/join indir",
+            "baglanti": "https://www.facebook.com/photo/?fbid=10117964356277811&set=a.743613136151",
+            "begeni_sayisi": 82400,
+            "yorum_sayisi": 14300,
+            "paylasim_sayisi": 2700
+        },
+        {
+            "metin": "Muse , kişisel ajan ile tanışın, bu ajan size işleri halledmeye yardımcı olur.",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 397400,
+            "yorum_sayisi": 57100,
+            "paylasim_sayisi": 19000
+        },
+        {
+            "metin": "Herkesin süper zekaya erişimi olmalı ve Meta'nın felsefesi ve değerleri hakkında uzun bir makale yazdım, herkes için olumlu bir gelecek inşa etmek için. Buradan kontrol… Daha fazlasını gör",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 447200,
+            "yorum_sayisi": 78900,
+            "paylasim_sayisi": 21000
+        },
+        {
+            "metin": "Geleceğin herkes için olduğuna inandığımızdan bahsettim. Daha fazla, bir süper zekaya sahip bir dünya için olumlu bir vizyon hakkında yakında yazacağım.",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 41400,
+            "yorum_sayisi": 11600,
+            "paylasim_sayisi": 3400
+        },
+        {
+            "metin": "",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 181400,
+            "yorum_sayisi": 63700,
+            "paylasim_sayisi": 4400
+        },
+        {
+            "metin": "Meta her zaman insanlara paylaşma, bağlantı kurma ve dünyanı istediğiniz şekillerde şekillendirmek için güç vermeye inandı. Bu sırada yapay zeka ile bir sonraki dalga'y… Daha fazlasını gör",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 55800,
+            "yorum_sayisi": 12000,
+            "paylasim_sayisi": 4200
+        },
+        {
+            "metin": "Benny's first 4th. Welcome to the fam\nBenny'nin ilk 4. Aileye hoş geldiniz",
+            "baglanti": "https://www.facebook.com/photo/?fbid=10117734367751661&set=a.529237706231",
+            "begeni_sayisi": 203800,
+            "yorum_sayisi": 40300,
+            "paylasim_sayisi": 9400
+        },
+        {
+            "metin": "Yıllarca süren bir süreç. Meta Gözler burada.",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 191200,
+            "yorum_sayisi": 31500,
+            "paylasim_sayisi": 12000
+        },
+        {
+            "metin": "Meta Glasses yeni serimiz bugün mevcut. Üç şekil, 26 stil kombinasyonu, en gelişmiş Meta AI ile donatılmış. Ayrıca, Kylie Jenner tarafından tasarlanan üç özel stil.",
+            "baglanti": "https://www.facebook.com/4/videos/pcb.10117702247495911/28035226706071151",
+            "begeni_sayisi": 96500,
+            "yorum_sayisi": 25100,
+            "paylasim_sayisi": 10000
+        },
+        {
+            "metin": "Cathcart, 7 yıl WhatsApp uygulamasını yönettikten sonra başkanı olarak görevden ayrılacağını duyurdu. Will, Meta'nın en önemli ve etkili liderlerinden biri oldu ve WhatsApp'u 3 milyar kişiyi aşan bir kitleye ulaştırmaya ve topluluğumuz için gizliliği savunmaya yardımcı oldu. Bu yıllar boyunca onun ortaklığı ve katkısı için çok minnettarım. Will, Meta'nın yeni bir rolüne geçiyor ve orada yeni ürünler inşa edecek - bu yüzden birlikte ça… Daha fazlasını gör",
+            "baglanti": "Bulunamadı",
+            "begeni_sayisi": 140900,
+            "yorum_sayisi": 30500,
+            "paylasim_sayisi": 4200
+        }
+    ],
+    "arkadaslar": [
+        {
+            "isim": "Moses Sackie",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61591345388141"
+        },
+        {
+            "isim": "Machar Bol Ayii ɪɪ",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61568274905129"
+        },
+        {
+            "isim": "Sultan Islam",
+            "profil_linki": "https://www.facebook.com/sulthan.ahmed.756859"
+        },
+        {
+            "isim": "Real Somrat CR",
+            "profil_linki": "https://www.facebook.com/lxsomratsarder2025"
+        },
+        {
+            "isim": "Mose Sevo",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61591867347133"
+        },
+        {
+            "isim": "Bol Magai Mathiang",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61582878564422"
+        },
+        {
+            "isim": "Roy Bradley",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595255735108"
+        },
+        {
+            "isim": "Fils de Nyalla",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61587289214476"
+        },
+        {
+            "isim": "Elijah Collins Jr.",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61593661324857"
+        },
+        {
+            "isim": "Evelyn Na'afi",
+            "profil_linki": "https://www.facebook.com/profile.php?id=100079031288713"
+        },
+        {
+            "isim": "Jeanpy Støne Doğrulanmış Hesap",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61594881896286"
+        },
+        {
+            "isim": "Cihan Babehan",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595487624515"
+        },
+        {
+            "isim": "W Å NI ʆʆ",
+            "profil_linki": "https://www.facebook.com/waninba"
+        },
+        {
+            "isim": "Deborah Perez",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595534033151"
+        },
+        {
+            "isim": "Kawitha Sewmini Dissanayake",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61593755026436"
+        },
+        {
+            "isim": "Bishnu Kant Jha",
+            "profil_linki": "https://www.facebook.com/profile.php?id=100038818275377"
+        },
+        {
+            "isim": "Rakash Mondal",
+            "profil_linki": "https://www.facebook.com/rakash.mondal.980016"
+        },
+        {
+            "isim": "Twic Hitboy",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61586690193630"
+        },
+        {
+            "isim": "Anilov Pierre Saint Abe",
+            "profil_linki": "https://www.facebook.com/anilovpierresaint.abe"
+        },
+        {
+            "isim": "Constant Marie",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595076938857"
+        },
+        {
+            "isim": "ᎰᎯᎷ ᏰᏫᏆᏆ",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61584592479769"
+        },
+        {
+            "isim": "Hannah Miller",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595214907109"
+        },
+        {
+            "isim": "Bhai KA Kitchen",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61594707492718"
+        },
+        {
+            "isim": "ɭɭ AK Kealy ɭɭ",
+            "profil_linki": "https://www.facebook.com/A.k.kealy"
+        },
+        {
+            "isim": "MK Naffih",
+            "profil_linki": "https://www.facebook.com/ramjan.labib"
+        },
+        {
+            "isim": "Louise Michel",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595449256746"
+        },
+        {
+            "isim": "Vath Kun",
+            "profil_linki": "https://www.facebook.com/vath.kun.75"
+        },
+        {
+            "isim": "MD Alamin Sikder",
+            "profil_linki": "https://www.facebook.com/md.alamin.sikder8954"
+        },
+        {
+            "isim": "Lila Nguyen",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595589230795"
+        },
+        {
+            "isim": "David Davis",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595227026463"
+        },
+        {
+            "isim": "Pap Kila",
+            "profil_linki": "https://www.facebook.com/pap.kila.383807"
+        },
+        {
+            "isim": "Stephanie Carter",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595512704025"
+        },
+        {
+            "isim": "Sika Tettekpoe",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61594650115321"
+        },
+        {
+            "isim": "Garang Malek",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61590964336618"
+        },
+        {
+            "isim": "Toufik Kibriya",
+            "profil_linki": "https://www.facebook.com/toufik.kibriya"
+        },
+        {
+            "isim": "Dancer Ccity",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61589791646733"
+        },
+        {
+            "isim": "Isaquel Allen Jofrisse KF",
+            "profil_linki": "https://www.facebook.com/profile.php?id=100080473387459"
+        },
+        {
+            "isim": "Nguyễn Tiến Dũng",
+            "profil_linki": "https://www.facebook.com/dung.conbosi"
+        },
+        {
+            "isim": "Yassine Rayan",
+            "profil_linki": "https://www.facebook.com/nabil.elyazidi.52"
+        },
+        {
+            "isim": "Rimi Moni",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61594985086885"
+        },
+        {
+            "isim": "Gift's Royal ladies store",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61568822218704"
+        },
+        {
+            "isim": "Øg Errow Kidd",
+            "profil_linki": "https://www.facebook.com/akot.col.errow.kidd"
+        },
+        {
+            "isim": "Johnny Ajuong",
+            "profil_linki": "https://www.facebook.com/JOHNNYAjuOnG"
+        },
+        {
+            "isim": "সুরাইয়া আক্তার সাথী",
+            "profil_linki": "https://www.facebook.com/sura.iya.aktara.sathi.790102"
+        },
+        {
+            "isim": "Pham Tanh",
+            "profil_linki": "https://www.facebook.com/pham.tanh.1865"
+        },
+        {
+            "isim": "Ebrahim Ali Omr",
+            "profil_linki": "https://www.facebook.com/ebrahim.ali.omr"
+        },
+        {
+            "isim": "Lawrence Nuch Vah Clarke Jr.",
+            "profil_linki": "https://www.facebook.com/lawrencenuchvahclarkejr"
+        },
+        {
+            "isim": "GU ON DO ʆʬ",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61592819103214"
+        },
+        {
+            "isim": "Toua Serge Armand",
+            "profil_linki": "https://www.facebook.com/doggi.lamoureux"
+        },
+        {
+            "isim": "Palmer Iı",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61558439853967"
+        },
+        {
+            "isim": "Rejaul Sheikh",
+            "profil_linki": "https://www.facebook.com/rejaul.sheikh166"
+        },
+        {
+            "isim": "Emma Hill",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595276224183"
+        },
+        {
+            "isim": "Francis Cooper",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61561326771109"
+        },
+        {
+            "isim": "Ex Maire Uma",
+            "profil_linki": "https://www.facebook.com/evrard.uma"
+        },
+        {
+            "isim": "আহসানুর রহমান অয়ন",
+            "profil_linki": "https://www.facebook.com/ahasanura.rahamana.ayana"
+        },
+        {
+            "isim": "Francisco Smo ʚɸɞ",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61579313141059"
+        },
+        {
+            "isim": "MK Badest",
+            "profil_linki": "https://www.facebook.com/bw.ii.mk.dc"
+        },
+        {
+            "isim": "Saheb Laskar",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61557885715690"
+        },
+        {
+            "isim": "Mhmoud Saud",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595125240647"
+        },
+        {
+            "isim": "Sami ɭɭ",
+            "profil_linki": "https://www.facebook.com/wi.sami.2025"
+        },
+        {
+            "isim": "Ola PM",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61594726901838"
+        },
+        {
+            "isim": "Emelda Jak",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61594937729353"
+        },
+        {
+            "isim": "Lea Mea",
+            "profil_linki": "https://www.facebook.com/lea.mea.66695"
+        },
+        {
+            "isim": "Faithful Ngarsinda III",
+            "profil_linki": "https://www.facebook.com/Faithful.the.wise.awakener"
+        },
+        {
+            "isim": "Khalipa Dan Umma",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61574131931431"
+        },
+        {
+            "isim": "حسام صخب",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595556261325"
+        },
+        {
+            "isim": "Nahid Khandaker",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595171284810"
+        },
+        {
+            "isim": "Emma Luca",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595017635476"
+        },
+        {
+            "isim": "Cota Mário Hazard",
+            "profil_linki": "https://www.facebook.com/noemilson.oconvencido.5"
+        },
+        {
+            "isim": "Pushpendra Pal",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595046014419"
+        },
+        {
+            "isim": "অপূর্ণ ইচ্ছে সব আমার",
+            "profil_linki": "https://www.facebook.com/apurna.icche.saba.amara"
+        },
+        {
+            "isim": "Regina J McClellan",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595414608333"
+        },
+        {
+            "isim": "Banner Yolis Padilla Contreras",
+            "profil_linki": "https://www.facebook.com/profile.php?id=100082166787277"
+        },
+        {
+            "isim": "Sheikh Jabed Ali",
+            "profil_linki": "https://www.facebook.com/jabed.umad.3"
+        },
+        {
+            "isim": "Jahanger Alam",
+            "profil_linki": "https://www.facebook.com/jahainger99"
+        },
+        {
+            "isim": "Justin Gallant",
+            "profil_linki": "https://www.facebook.com/justin.gallant.572678"
+        },
+        {
+            "isim": "مازن احمد",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595332410907"
+        },
+        {
+            "isim": "Parvez Faris",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595169818838"
+        },
+        {
+            "isim": "Nellä Bestÿ",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61575345291759"
+        },
+        {
+            "isim": "April Prince",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61587261017040"
+        },
+        {
+            "isim": "J Kafakå ɭɭ",
+            "profil_linki": "https://www.facebook.com/profile.php?id=100092466546322"
+        },
+        {
+            "isim": "Karam Younis",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595130940676"
+        },
+        {
+            "isim": "Zeeshan Ahmed",
+            "profil_linki": "https://www.facebook.com/zeeshan.ahmed.104278"
+        },
+        {
+            "isim": "Reymart Siona Cuanan",
+            "profil_linki": "https://www.facebook.com/reymart.siona.cuanan"
+        },
+        {
+            "isim": "Kenny Viber",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61586659562276"
+        },
+        {
+            "isim": "Tarcizious Da Mpesi",
+            "profil_linki": "https://www.facebook.com/profile.php?id=100086500458918"
+        },
+        {
+            "isim": "Rose Nguyen",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61595195257823"
+        },
+        {
+            "isim": "Shery Khan",
+            "profil_linki": "https://www.facebook.com/profile.php?id=61593805958714"
+        }
+    ],
+    "fotograflar": [
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.99422-6/844497892_1084158740915284_1690863299357581869_n.png?stp=c0.169.1536.1536a_dst-jpg_tt6&cstp=mx1536x1536&ctp=s206x206&_nc_cat=1&ccb=1-7&_nc_sid=714c7a&_nc_ohc=QRC2P61sfZcQ7kNvwEz4B09&_nc_oc=AdqTSwWfNKEd31kYT-plrJdQ5a3C0vHH30g8EsJgbfJeVOc5YeObjPMEPQ5iCf1koRxAKOwpnmnYz9ezx6EzHQAd&_nc_zt=14&_nc_ht=scontent.fasr1-2.fna&_nc_gid=GfL6DG9sp236WkVUt-23YA&_nc_ss=7b2a8&oh=00_AQNNTqbJ5a9EPH3Zb6W6G_npuzdWN2V1wAWx22JpPc2PBA&oe=6AD40081",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10118052545171561&set=pb.4.-2207520000&type=3",
+            "aciklama": "karpuz görseli olabilir"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/845359740_10118046114783111_2127051110150786750_n.jpg?stp=c0.89.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s206x206&_nc_cat=1&ccb=1-7&_nc_sid=50ad20&_nc_ohc=g36wuDPRtGQQ7kNvwEA04-f&_nc_oc=Adpp9dNoDOO1L2ZPDDf4kCYey8ouZSpkvErjSW7VsLlmuhp-LzWxVUx37jT4WjAhERNUu4HWu9N_EIYLCGXjRIvG&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=GfL6DG9sp236WkVUt-23YA&_nc_ss=7b2a8&oh=00_AQNSR4mLK9RCqYVMYgw15IR310izWuomXNBq6CGDj9taKw&oe=6AD3FBAA",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10118046110187321&set=pb.4.-2207520000&type=3",
+            "aciklama": "yazı görseli olabilir"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.30808-6/843367066_10118046114862951_6010022235040519707_n.jpg?stp=c0.169.1536.1536a_dst-jpg_tt6&cstp=mx1536x1536&ctp=s206x206&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=50ad20&_nc_ohc=uSftIhET-JAQ7kNvwEe9LCD&_nc_oc=Adpgg0aNBzJdw2Yz5ynq5cl5p3mckdA0LE61s8oS-fk8zk7OGvbpTaFV4Whf7uN5bHvD4k54hIshR5uF-UUKICUJ&_nc_zt=23&_nc_ht=scontent.fasr1-3.fna&_nc_gid=GfL6DG9sp236WkVUt-23YA&_nc_ss=7b2a8&oh=00_AQOLu10rTJNdx4LW6EWJhVHZHt1QZ0cxeLJPp6HoTfGxDA&oe=6AD40F12",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10118046109992711&set=pb.4.-2207520000&type=3",
+            "aciklama": "sosisli sandviç görseli olabilir"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/842609229_10118046114927821_4053888343746983615_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=1&ccb=1-7&_nc_sid=50ad20&_nc_ohc=rCMjFhqqGZwQ7kNvwF3T-Vm&_nc_oc=Adq1K_Qfr-ONu6m2uRzsjO7j-ISN_TkEZOvw8uBDXxCbdvQLvwgSCI1Q_wGdN0zG75BhwjNuz0O9E2igcq5AauPG&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=GfL6DG9sp236WkVUt-23YA&_nc_ss=7b2a8&oh=00_AQNAHbyURqYcWrFaGY-as4pSJIyAbQXBhMzFlXpG5IkB0Q&oe=6AD42181",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10118046106230251&set=pb.4.-2207520000&type=3",
+            "aciklama": "biftek, sosisli sandviç ve somon füme görseli olabilir"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.99422-6/825353060_1566336141376809_3579307936815964564_n.png?stp=c1060.0.1246.1246a_dst-jpg_tt6&cstp=mx1246x1246&ctp=s206x206&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=52bb43&_nc_ohc=G-yCVCRjFZ0Q7kNvwE7dzcr&_nc_oc=AdoIO9Iz9e-CeTdQudYqAh72GNdGwDo7BVCE3L7-s92wkARxOhcMUHVjSzHvRNFi87zs-d3aBVwIqmty5-2rAM1r&_nc_zt=14&_nc_ht=scontent.fasr1-3.fna&_nc_gid=GfL6DG9sp236WkVUt-23YA&_nc_ss=7b2a8&oh=00_AQOG1gX08bzpKym-cmVYr5sPXUX7DsbCIS-DRt9k-43xYg&oe=6AD4017B",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117988924537821&set=pb.4.-2207520000&type=3",
+            "aciklama": "gözlük ve yazı görseli olabilir"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/824997889_10117988912521901_6461829225333448476_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s206x206&_nc_cat=1&ccb=1-7&_nc_sid=7a06f5&_nc_ohc=Yr0T7qM9GK4Q7kNvwExcnAL&_nc_oc=Ado2pc13WCQhWJAaoPK2d9F2Vrwt0M60RkdMCU0jg3WdwqyJ_3h7GF_ab-4DRjuNRYPqpPv0CtezzuCqV7Lf5H3v&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=GfL6DG9sp236WkVUt-23YA&_nc_ss=7b2a8&oh=00_AQN0Zz4hQscXXuD_MjqvN8gjcUFrAaH0pLKiaf2eVjA3sA&oe=6AD3FD0F",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117988914403131&set=pb.4.-2207520000&type=3",
+            "aciklama": "Bir siyah beyaz bir veya daha fazla kişi, kol saati ve gözlük görseli olabilir"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/798035993_10117964355140091_4488314344426088727_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s206x206&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=fe5ecc&_nc_ohc=eLaMXzmCutMQ7kNvwG_y8zH&_nc_oc=AdqLqcB2QtkTCLAbjUY0t40YjEc_fKgUTX6B4_PIVIMGoDWRtnU9PmE9ioNZQLkKDjCbFZ_mk7PwtW91mIAD-35_&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=GfL6DG9sp236WkVUt-23YA&_nc_ss=7b2a8&oh=00_AQMlb_TNc_JqHgbgR9hpmmst2KoIfNXy3BhFNERlw4-Q1w&oe=6AD3F3B5",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117964356277811&set=pb.4.-2207520000&type=3",
+            "aciklama": "oyuncak görseli olabilir"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.99422-6/738175821_2115125412402213_9042774096782104658_n.png?stp=c0.169.1536.1536a_dst-jpg_tt6&cstp=mx1536x1536&ctp=s206x206&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=50ad20&_nc_ohc=DkYbtNzcm9QQ7kNvwH4g6B5&_nc_oc=AdoGuQ5GrtM9QJCcKNYqTIw2xTFWyTJJagK0PdqwQKeqwCOhDZJA47H_lGfFjTlLUeFnWFlR8KbvQQLv7dEGQrnl&_nc_zt=14&_nc_ht=scontent.fasr1-4.fna&_nc_gid=GfL6DG9sp236WkVUt-23YA&_nc_ss=7b2a8&oh=00_AQMPDp1TxDczjaWKYzslhyrlLkIcoJEDjwMhvkPBk0OHUQ&oe=6AD40734",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117734367751661&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.99422-6/729089543_863404549723080_4267590917829447506_n.png?stp=c0.89.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s206x206&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=d5FthqHMXwUQ7kNvwGqfxfK&_nc_oc=AdqiAGZo9C-ziIdPeQEVCnVuKZ9K67dgVP_LYdZ9vCFHYbPBOudOLgJPuOH-jt9pmKAseGKvihtVBbVUFIYywGay&_nc_zt=14&_nc_ht=scontent.fasr1-2.fna&_nc_gid=t-mUMpqWW42QObPemCKTSg&_nc_ss=7b2a8&oh=00_AQNd7qiIuNeNawjHQt1QhPTR8HsO_9jfBXVHVvI4I-H0Jw&oe=6AD416B1",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117702235155641&set=pb.4.-2207520000&type=3",
+            "aciklama": "May be an image of eyeglasses and text"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.99422-6/730487583_1551065603474812_285921724684382784_n.png?stp=c0.99.1200.1200a_dst-jpg_tt6&cstp=mx1200x1200&ctp=s206x206&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=TVNfh62jFIsQ7kNvwHhiy45&_nc_oc=Adpbg5LUYF-CIr3mvYdVtFGOFQ6acTl2zhgp6BqGF9Ug4F-gRjGNMqKQHVb1JyzHswBFnBxBgE4X-jyB1b9IXpWf&_nc_zt=14&_nc_ht=scontent.fasr1-3.fna&_nc_gid=t-mUMpqWW42QObPemCKTSg&_nc_ss=7b2a8&oh=00_AQM7izQu8-NwtpnaiLOwOu07NInCqbPYgqKcv1b-KyoCIQ&oe=6AD41A11",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117702234985981&set=pb.4.-2207520000&type=3",
+            "aciklama": "May be an image of eyeglasses and text that says 'urtoise OIs Classint OPOI eamPr Toto ClassicT 3DPrint Team Turtoise Stw Classic ID ID e 3лT ProtO Classic TeamProte Proto Turtoise Step IDI DTeamPiota Classi toje itoise to1s rtoise Trial - d'"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.99422-6/729964759_1521903729317120_8885214616437268694_n.png?stp=c0.169.1536.1536a_dst-jpg_tt6&cstp=mx1536x1536&ctp=s206x206&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=oDa-jjTf2AkQ7kNvwE8ydfY&_nc_oc=Adou2fb8lkmqofff9qw5pVdjUegkAtz0Awo46DmE0t9hNHsTzLW9A4NXpF80chpmVgOpjh-bxpubYDtZ_Jbl0wxP&_nc_zt=14&_nc_ht=scontent.fasr1-1.fna&_nc_gid=t-mUMpqWW42QObPemCKTSg&_nc_ss=7b2a8&oh=00_AQOlwd57TFaRAFQWt1O6d6QvWfxqKoSy6uc5OUMCEJMFlw&oe=6AD4116B",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117702233933091&set=pb.4.-2207520000&type=3",
+            "aciklama": "No photo description available."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/706217490_10117619503360821_7150529567780529575_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=jyLo22QtFTAQ7kNvwHVdULI&_nc_oc=AdrxqWzR6SNQ2ut2t1xJkvkFL5341e5e8zrPfwW1fwGSwIg02yQEhN5iWv9tm8H1Ek614V4T9O7l-4BSgctcqYb5&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=t-mUMpqWW42QObPemCKTSg&_nc_ss=7b2a8&oh=00_AQOeC4ro5gqg0ga2OzxAHg035HhzHIYrSuWX47qL5MCIEg&oe=6AD407A8",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117619503350841&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/708333456_10117619503216111_6213795994379629173_n.jpg?stp=c0.135.1639.1639a_dst-jpg_tt6&cstp=mx1639x1639&ctp=s206x206&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=2_l68ZKWvoQQ7kNvwGW7DFD&_nc_oc=AdrZ2uhqjTF9TRG06OHKaibD407rShpwZCPASBpVVUXJCGHWE8aqGIqJDRf6ZvO1Pwfrh-_-M-MKSnRj0UQVSazz&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=t-mUMpqWW42QObPemCKTSg&_nc_ss=7b2a8&oh=00_AQOeNs2PlqZeby5iueVu6KzZ0XubHbGTc8UtlhbWjmwcFA&oe=6AD413C6",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117619503196151&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/705627459_10117619503126291_2094098111113462023_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=X45_KD9vw98Q7kNvwHVkTxo&_nc_oc=AdqP6xvapc7bOmJkB6RwhM5lJtHh1gWglMzOUv75psbQ-Y3c6_gJ1M9C1OxndRYmTHRWtc6jH_gIRrEIsrVU2trK&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=t-mUMpqWW42QObPemCKTSg&_nc_ss=7b2a8&oh=00_AQP_PwP_DPTHenJe3XxUISi56j42_by6HLlutMNGIocDbg&oe=6AD40EE5",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117619503121301&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/708468935_10117619503106331_3503426878426292332_n.jpg?stp=c0.135.1639.1639a_dst-jpg_tt6&cstp=mx1639x1639&ctp=s206x206&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=7DyqX7kE3_cQ7kNvwEVl9hY&_nc_oc=AdpwVge3BuDNfU0N42QfsI-r1dRcBngCNW_C4QdgVCsKdJT_VfpDIM5kyEQ414Ft4KAhp8QcREmw83L4OpbN2WUc&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=t-mUMpqWW42QObPemCKTSg&_nc_ss=7b2a8&oh=00_AQM2sv_Zsl3WWrHnOYkCiUJ1XxGSZjJzpo9TIHl2r-O_lA&oe=6AD409AD",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117619503101341&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.30808-6/695528644_10117583974456031_6623692514621286565_n.jpg?stp=c260.0.1400.1400a_dst-jpg_tt6&cstp=mx1400x1400&ctp=s206x206&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=izUXqpQtOeIQ7kNvwEUncTV&_nc_oc=AdqQ10g355I6vG_NUmsZnWvENjLAVrVCw4rDOODIUB_uATA376jOeXLkSgsIEb9OVoN9YTicZPsDMSwMLI1gTrl2&_nc_zt=23&_nc_ht=scontent.fasr1-3.fna&_nc_gid=t-mUMpqWW42QObPemCKTSg&_nc_ss=7b2a8&oh=00_AQNnM7F-HSPGVXwZEMnHIBJ9_qNfuqZrVQgL1sbvl9at2g&oe=6AD405FE",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117583974451041&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/694094829_10117581386896521_6126442010038433328_n.jpg?stp=c0.61.738.738a_cp6_dst-jpg_tt6&cstp=mx738x738&ctp=s206x206&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=b2k0QNBdjMYQ7kNvwFcKYDG&_nc_oc=AdoGxE-HOOpUCQQM5UI-gkWfnT5wf1C02S2nmjAzkiWmkucI7ldUSToD_nOF0HcWapIAmXduWH9bbDuePRXNcGf3&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=_AoLAE3Ot6ZEZXfJbCshpw&_nc_ss=7b2a8&oh=00_AQNRbhsiRJOf0fJVdE_uvji2MVe-f8y1UlSkRQQHHbv27Q&oe=6AD3F12F",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117581386881551&set=pb.4.-2207520000&type=3",
+            "aciklama": "May be an image of text that says 'Sept... 8 Wed 23 CONNECT EVENT (Wed Keynote Thurs 4 PM 5PM 5 PM 6PM 6 PM'"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/696632761_10117581386681951_1044366863372425149_n.jpg?stp=c0.75.909.909a_cp6_dst-jpg_tt6&cstp=mx909x909&ctp=s206x206&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=UXYXa0mG3vMQ7kNvwFiWael&_nc_oc=AdqAZlp8E7ZVp_CS1bcRM973v-oZ6YXSyvLE0Jw4zqEnFTFcSgvZDnMWeYMzC3hrnaHRr-3lvQypnl6wZNazWF4D&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=_AoLAE3Ot6ZEZXfJbCshpw&_nc_ss=7b2a8&oh=00_AQPAGnl0ErQxf46NfzZmRKUcR-UmAyp2EvePKRMtp3kxTQ&oe=6AD3FE05",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117581386671971&set=pb.4.-2207520000&type=3",
+            "aciklama": "May be an image of text that says 'CONNECT 9.23-24 CONNECT9.23-24@MenloPark,CA @ Menlo Park, CA Demos Special guests updates Better wifi'"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/696995516_10117581386691931_8602908545616611052_n.jpg?stp=c0.53.612.612a_cp6_dst-jpg_tt6&cstp=mx612x612&ctp=s206x206&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=6rdhPFv9FO4Q7kNvwFt621N&_nc_oc=AdqbulJoDGCcIWAV0FDh3hCLMhyImXbadcK9fMQ2Zf7C23BcMGr_0BryDKOa4itf58LNNWARGiiKvUc7s0TMzMLQ&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=_AoLAE3Ot6ZEZXfJbCshpw&_nc_ss=7b2a8&oh=00_AQMsYM9797DI1tGFD--4eCrCsmFrEsg6WgKv5CrF8qDMTA&oe=6AD3F46C",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117581386661991&set=pb.4.-2207520000&type=3",
+            "aciklama": "May be a black-and-white image of phone"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/695724012_10117581386632051_1235402546615513819_n.jpg?stp=c0.78.945.945a_dst-jpg_tt6&cstp=mx945x945&ctp=s206x206&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=2ErpH_AWcBUQ7kNvwFIF4DJ&_nc_oc=AdrExLsedwTJSD6sFDt6jBOHDNkcyX57s3G_IGcp-fnJ5Qt2TTNfzRIT1YCyUqinwMfse_Hcm9Yc21pKH2CAOs06&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=_AoLAE3Ot6ZEZXfJbCshpw&_nc_ss=7b2a8&oh=00_AQO9uukBs-4YESS5yDeAYuk97dxsHLmXbpJTpdtC0I01jA&oe=6AD41430",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117581386622071&set=pb.4.-2207520000&type=3",
+            "aciklama": "May be an image of text that says 'Connect 2026 Vibes M Mark Zuckerberg 1h 4min + X O E Born Again (feat. Doja Cat... Video LISA, Doja Cat, RAYE daft puHK Harder Better, Faster, Stro... Video Daft Punk Say Hello JackHarlow Jack Harlow Dracula E JENNIE Remix Tame Impala, JENNIE Feeling This'"
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.30808-6/649137739_10117392482736971_8799999883045095676_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=50ad20&_nc_ohc=bIISH1g3ZOEQ7kNvwGQLD9m&_nc_oc=Adosih-JhOHctIdKZz26d4qlgxEkt67wto-rZFsHGdpqoAMl3QeQ0upTjakubRUHW638nvmAgnwsA4Upf7u161o4&_nc_zt=23&_nc_ht=scontent.fasr1-3.fna&_nc_gid=_AoLAE3Ot6ZEZXfJbCshpw&_nc_ss=7b2a8&oh=00_AQOy8W549FNbAWA4PYKyWICv2ymhkWZfN-iVhD0gl2JrNA&oe=6AD41326",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117392482731981&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/649197944_10117392482532381_455117239230536738_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=50ad20&_nc_ohc=51TI5cZjQ2IQ7kNvwEhNR_C&_nc_oc=AdrzwoCffAFOS_pmeQ648G5SzrxGTd6DIXP9BksvMJfSrhUN0gO21ohxVqPrwV-Enjue63flgz-Eg6MM1t1cV-o7&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=_AoLAE3Ot6ZEZXfJbCshpw&_nc_ss=7b2a8&oh=00_AQNMPD-pO1NEPhT-R4OzYqIyKQXl5ENhetRpXqriJpz9WA&oe=6AD411E7",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117392482522401&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/632550896_10117314656231911_7975049830116595629_n.png?stp=c230.0.360.360a_dst-jpg_tt6&cstp=mx360x360&ctp=s206x206&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=50c75d&_nc_ohc=7lXwKtc4jpkQ7kNvwF2MClW&_nc_oc=Ado1O0G19tkbvFcXQcIVnaWPBP7Cwx5U0cemqBgHyA1K6Wrzd98qk3ZIHEPu9OTYapfO53FCfkRpraq3ONYfMgBn&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=_AoLAE3Ot6ZEZXfJbCshpw&_nc_ss=7b2a8&oh=00_AQO8iM67nyA7MSL_wZvRNfTijj0YZx-GFmGIkjYVRkxRUg&oe=6AD401E2",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117314656226921&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/628217338_10117296246145871_1135212148970743150_n.png?stp=c268.0.315.315a_dst-jpg_tt6&cstp=mx315x315&ctp=s206x206&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=50c75d&_nc_ohc=KQMZO29BNxIQ7kNvwFV9Lbo&_nc_oc=AdqlkZ6NBq3sXT9BOG9sY-gwxZtUo0EaGwSWrO1xjUn7ZZXcvJcYuEvJfzoeTx4bCc6KW1h-QZ5Gd1bwJlmg_vov&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=_AoLAE3Ot6ZEZXfJbCshpw&_nc_ss=7b2a8&oh=00_AQM3fn7zEi1nXijlogzBf0_1CBVzLzmsMrxRw4CpxSh6hQ&oe=6AD40A52",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117296246140881&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/611169742_10117222346860631_847452257204153668_n.jpg?stp=c190.0.1060.1060a_dst-jpg_tt6&cstp=mx1060x1060&ctp=s206x206&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=cuFBILWgNXkQ7kNvwFj-NJg&_nc_oc=Adr9WkbWdw2CIkW3FBw5Js4nM48pWlz4Vw2Fc6ikN1xOCI1uemcreyu6-hluiwSV7qJCvBGJjSBoprrkQslXWPeN&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=Mjk0w88YsBJOIA8J1-p0kQ&_nc_ss=7b2a8&oh=00_AQOt4Gq163AP08ji_eMvwdvQVUqRpnvk866Ug7nwZrTj3g&oe=6AD40466",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117222346855641&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.30808-6/607732720_10117197689908361_3569574903971032518_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s206x206&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=msZ2uuY4cU8Q7kNvwGj6on_&_nc_oc=AdrxhGILId-0Q3qGMgEJzIz6lKi54fZ1_A6aW6XGFbmupq__ZlLEKviyFGPL3Tc_hlOs11e57JKuNE1ESPnqCViz&_nc_zt=23&_nc_ht=scontent.fasr1-3.fna&_nc_gid=Mjk0w88YsBJOIA8J1-p0kQ&_nc_ss=7b2a8&oh=00_AQMyaFWkOOciuRfaN9gHvvkU7h454m9Ucwn71T2y-BfJ-g&oe=6AD3F09A",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117197689898381&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/607181279_10117193157007331_7451704160408185610_n.jpg?stp=c0.89.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s206x206&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=aJvsHFuq9nsQ7kNvwEqkeFJ&_nc_oc=Adq-4xCjMiUTFaloYKSNYjzDd-u_lziquAPLaHaaqf3lipEk_cK83R-0mTxffPFcTj9-PeP8oivarhV1cOvmpJeQ&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=Mjk0w88YsBJOIA8J1-p0kQ&_nc_ss=7b2a8&oh=00_AQM0IO_DJW3NsfDRMCJzIhlSNmKSNMneXWOq5ZlUxOi2yA&oe=6AD40576",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193157002341&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.30808-6/606016571_10117193156977391_1754353349368463962_n.jpg?stp=c0.89.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s206x206&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=MXLfr5CdP58Q7kNvwHagZGw&_nc_oc=AdrsUiBXDqQ4YIgKaNM_0BJI-BVGEDhdIl1U-4PPqIHWF78fAH3_ZI99a90004dbVkQuAgwdBuhiyB9rT8o1Gj0S&_nc_zt=23&_nc_ht=scontent.fasr1-3.fna&_nc_gid=Mjk0w88YsBJOIA8J1-p0kQ&_nc_ss=7b2a8&oh=00_AQNdROvzxSdkVHHIrL5Q4prWcuprowCxqUTecSv2sJQqIQ&oe=6AD4009D",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156967411&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/605573801_10117193156942461_5786488336927036175_n.jpg?stp=c0.109.1322.1322a_dst-jpg_tt6&cstp=mx1322x1322&ctp=s206x206&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=K7vRwQnbKGAQ7kNvwEZAFOL&_nc_oc=AdoDvYsFagehg7rnUttWX9aPp0fFAHoobOLfpD9iG4DtVwryJFNoYTUKKUqVOJYpTdTj74GFtLTr1VB5TOeHYrNn&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=Mjk0w88YsBJOIA8J1-p0kQ&_nc_ss=7b2a8&oh=00_AQP4sjw4zHpzbas1h97ZBE7A7il3n1lDzLaJTgRbrK94ug&oe=6AD4159F",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156932481&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/605637494_10117193156732881_7876175901741307347_n.jpg?stp=c0.127.1536.1536a_dst-jpg_tt6&cstp=mx1536x1536&ctp=s206x206&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=XvbSFoND3ucQ7kNvwEs-M_g&_nc_oc=Adogfd8c46qHp5DBNnxgLb-rEXYsWv4kjAXCEm-0WS5akEoryuzua7cQoW1_E3tjN_LFQpeZC5JlZQCEFMkjRVvg&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=Mjk0w88YsBJOIA8J1-p0kQ&_nc_ss=7b2a8&oh=00_AQOPQi2oOFmI1gJ93-4JDcSH5CE2WWqGWT2PuFRzZ_-aNA&oe=6AD400F8",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156727891&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/606836178_10117193156687971_5147355861213312679_n.jpg?stp=c0.75.910.910a_dst-jpg_tt6&cstp=mx910x910&ctp=s206x206&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=L_ABDgcp7kIQ7kNvwFR8ZzO&_nc_oc=AdrJ0-aOnd3-6V5RDO30v4yZcwXFlD2GUPfndCrIJHAbtZsql2Y09_J03Pa5yRwJrhOQVH4EEsBey_sMc8JDtdri&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=Mjk0w88YsBJOIA8J1-p0kQ&_nc_ss=7b2a8&oh=00_AQOXNYW9bAJkamN9w7J5k0ScRv-YlSRG3F8zE1BhxrIzBg&oe=6AD41E80",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156668011&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.30808-6/605726217_10117193156633081_5551749675878381802_n.jpg?stp=c0.75.910.910a_dst-jpg_tt6&cstp=mx910x910&ctp=s206x206&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=qwKnTponyb8Q7kNvwF_iQcf&_nc_oc=AdopPR1xo6FJ6517EYOJvyky0iYgmOlj3tKRKjKduvn-oKKzd6VexSwDCC6dp1i8lpY9mQH2hqr1yBLQdkWISBQz&_nc_zt=23&_nc_ht=scontent.fasr1-3.fna&_nc_gid=Mjk0w88YsBJOIA8J1-p0kQ&_nc_ss=7b2a8&oh=00_AQMy8G95GFiFmL-BtFgpS8SeeQ8AiX99eZUfcUmePH1gUQ&oe=6AD40489",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156628091&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/607229664_10117193156403541_4716369647845552020_n.jpg?stp=c0.89.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s206x206&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=ttwRthO4vY4Q7kNvwFeO3ik&_nc_oc=Adp5BTS50uejhtoo5rmHe6K7G7nTLMgbLs_UN7Khb8W_QAZggmKsN9grBOldvzaMytvJ26VoadnNjiffBv9BLgHU&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=pERSY_HcKBUdrSxDdfnzrA&_nc_ss=7b2a8&oh=00_AQP0573h7oZkIKU7cITuDW3sfScRkMrtPcBwlPTeq2hmnA&oe=6AD40615",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156398551&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/605773878_10117193156423501_852947725248729264_n.jpg?stp=c0.127.1536.1536a_dst-jpg_tt6&cstp=mx1536x1536&ctp=s206x206&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=eUNPdwUGgzEQ7kNvwH69a8m&_nc_oc=AdrZMLb3AUtOF5tRvndcEzeAjzk9o1--p-Uam8F2WTK6FaJJpONOIxzihyssbSX7C5OO7LZQN-hQrANVOlnAjpOL&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=pERSY_HcKBUdrSxDdfnzrA&_nc_ss=7b2a8&oh=00_AQM5wTdfXUiS2O8-mOxUNbwX-FB7LwKYK-sIrw-KgXdyVw&oe=6AD3EA43",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156418511&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/605129901_10117193156358631_3617384602492151957_n.jpg?stp=c0.97.1179.1179a_dst-jpg_tt6&cstp=mx1179x1179&ctp=s206x206&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=cimYzHQC52EQ7kNvwFPsZvE&_nc_oc=AdqYEx4UGJ4sfK-yfRhLg3deMgz71DPFRDV7b1m8xZYPRZ5PSswy1PcJQEYsXnHT6D-GP5PjTijqMF16tojDt-iV&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=pERSY_HcKBUdrSxDdfnzrA&_nc_ss=7b2a8&oh=00_AQPEm_1Mq5lymXeQrTC3W-8LLs736uTmnkOJUwektD2lOw&oe=6AD4171B",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156353641&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/606351129_10117193156228891_6076421798090189753_n.jpg?stp=c0.121.1467.1467a_dst-jpg_tt6&cstp=mx1467x1467&ctp=s206x206&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=oMrzuNpWoMcQ7kNvwFY5LBk&_nc_oc=Ado7XfrGMTcttaIsaAw9WS793X24aHp3sc1D3PplEhwaf4WfFthtINn0bMMXl9tV3DrC7kRt0z__0k8mW6pfrSBD&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=pERSY_HcKBUdrSxDdfnzrA&_nc_ss=7b2a8&oh=00_AQPRjHPbScJj8yVSd3B0fJKQhMufD_iJejYo7QTA5Oc4Jw&oe=6AD3FE02",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156218911&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/606359753_10117193155999351_8537037182221354005_n.jpg?stp=c0.89.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s206x206&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=_10a8ynrDasQ7kNvwGNh0qP&_nc_oc=AdoCa4gZxFbnQZFQgIrfGB7ehZStT59uUsuBsR8Tygk6rvlVnVv3jpHNUMhQxA1CtYYRXAEF-GxU2BPglX73KwCl&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=pERSY_HcKBUdrSxDdfnzrA&_nc_ss=7b2a8&oh=00_AQM2tHcLvSgN_ExT7FXPPUU-zs5qIfZUAL7_Cg6NSBqmtQ&oe=6AD41D9F",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193155994361&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/605544280_10117193156049251_9133779878974055557_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=XMNnpyDb7aYQ7kNvwFPm7kr&_nc_oc=Ado52goL4guiyQNe331tO35f4yPoEOJB3p1zZ5-R_UpXQsbM13cGzb6M8SLJeJfLqs1Hwbo2aZrnZCqS7pRMhCEo&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=pERSY_HcKBUdrSxDdfnzrA&_nc_ss=7b2a8&oh=00_AQOmDes3yHeXbt8UdaoOqD6JV_TfRRZUCW0T5jv0ZFAU1w&oe=6AD3EABE",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193156039271&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/607636527_10117193155969411_1373042340575521808_n.jpg?stp=c0.89.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s206x206&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=Cm2DwSIZZXIQ7kNvwF9dHgI&_nc_oc=AdoSfhp2Ain7oVQqmmy60R4IrHutzRmyFscGM9K_IL5fKlOM_g9y6XFI9jgwsj6XKrF_g2cSYgccNDt9IeJyxS1X&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=pERSY_HcKBUdrSxDdfnzrA&_nc_ss=7b2a8&oh=00_AQPQ3-SXpKBI6VK1DJQpG8bOL8RjLUiU8a3gMsk1RPLDOw&oe=6AD40BAE",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193155959431&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/605572486_10117193155729891_2571595701808142445_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=jIbhTpSuK8AQ7kNvwGWXk7d&_nc_oc=AdpZONHnVKfai4zyvv8FXm6j7P6noZE5Uy42kR0cf3SmB-kyd0SBaroDaotQe7hDLkRu9Rx5u25wTb7tNAZrknFp&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=pERSY_HcKBUdrSxDdfnzrA&_nc_ss=7b2a8&oh=00_AQMeeJ5tuVOaw-hJUpqdPdsVor2z3J8D8arpBCB_2ByRkw&oe=6AD401BE",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193155719911&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/605665142_10117193155625101_1320915342576294593_n.jpg?stp=c0.103.1252.1252a_dst-jpg_tt6&cstp=mx1252x1252&ctp=s206x206&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=D57aYF7FC3kQ7kNvwGoRs68&_nc_oc=AdqKYUb1LqmK2Yd95RXyRGkouVVmS97p2iPqH5aSvGh_k2r37tJIIrugm1678JNK9Dlr9KfTYy_BgANgtNaHjAzy&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=vS3t4RoJXDqQKEBSfhuo7A&_nc_ss=7b2a8&oh=00_AQNydS8FDO1PodqaWM6X8AgJZ6J3afNFntAlKm5XVYWLug&oe=6AD3F221",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193155620111&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/605535918_10117193155585181_6519629786245588559_n.jpg?stp=c0.103.1252.1252a_cp6_dst-jpg_tt6&cstp=mx1252x1252&ctp=s206x206&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=igcEOeK7TeUQ7kNvwFJNJX1&_nc_oc=Adob0RWaIZp9A7u02CkjsiUaFhESo59R9VMcML_K8ehdIV_OImlOmvuymw2ZlYxB3JbdleA3JMZOPsaMRW_1zMOJ&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=vS3t4RoJXDqQKEBSfhuo7A&_nc_ss=7b2a8&oh=00_AQMZUj4XqfqsHLovL9Prpn_xGX0X2nrS9HxHNqi90fwsJw&oe=6AD41D01",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193155570211&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-3.fna.fbcdn.net/v/t39.30808-6/605753247_10117193155545261_4079878770191241980_n.jpg?stp=c0.82.996.996a_dst-jpg_tt6&cstp=mx996x996&ctp=s206x206&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=atZe2kt8R3sQ7kNvwHEsqaG&_nc_oc=Adoh9GxDNagPltxL_uJhDYBd7ECjxp9HebhT0aCvkkIcPyhrN9yfBjSumjFXNjGKvgtDPfRFa3r_GcQVkuisvlr0&_nc_zt=23&_nc_ht=scontent.fasr1-3.fna&_nc_gid=vS3t4RoJXDqQKEBSfhuo7A&_nc_ss=7b2a8&oh=00_AQPLdxnOmvrgaHUCatIYaMYvYRkxfmK1RHpdWJfX4M8-mQ&oe=6AD41927",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193155510331&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/607143828_10117193155535281_857738908976341292_n.jpg?stp=c0.113.1365.1365a_dst-jpg_tt6&cstp=mx1365x1365&ctp=s206x206&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=Hdlp7uYNhY4Q7kNvwEHUorA&_nc_oc=Adrleai-pDylSx17GmerKAPmJH8FFS27hIhtZBoYyLZUbpmFk3n2EHe4lrOxS8YJ4Eq4oGVFK0pZKliXKmYBVEJo&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=vS3t4RoJXDqQKEBSfhuo7A&_nc_ss=7b2a8&oh=00_AQMJdXrTu7QRIuLIrTSUVXD4IjNLTMBSvEo8akq3WEFoVA&oe=6AD3ECC6",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117193155500351&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/584196764_10117074441663831_2290282156892060533_n.jpg?stp=c205.0.1639.1639a_cp6_dst-jpg_tt6&cstp=mx1639x1639&ctp=s206x206&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=gu_nDPe9a_kQ7kNvwH0gpPc&_nc_oc=AdpKxXjrPT7ZoIKktS_kV6GNTLUBNr_nMBeUaEXEcODLJsPaGsHjl0xj5Dr0ZjwBMVfoib_VCrW_s69LeY60idI8&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=vS3t4RoJXDqQKEBSfhuo7A&_nc_ss=7b2a8&oh=00_AQPXiaUkRRogxEDt16R9igz3f00j8IE7Z0JWJ6NQdXd8Iw&oe=6AD41D5F",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117074441648861&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/582025200_10117074441588981_1889022053040200319_n.jpg?stp=c139.0.1110.1110a_dst-jpg_tt6&cstp=mx1110x1110&ctp=s206x206&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=HQ-LEpNQIx0Q7kNvwEyw91n&_nc_oc=AdqUp_VghPTVkKAIzUW3RwFLiR6bb5EjgHJeRwE9VGvftEghKA2Vm4KG_IX00GLd_kSBYraEE_iMJMRsmw2O07Fm&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=vS3t4RoJXDqQKEBSfhuo7A&_nc_ss=7b2a8&oh=00_AQMjOxrNkNsGCV4etVjn_WsySMVF11LJ0ZSDVTG_blKjog&oe=6AD41734",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117074441583991&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/577071744_10117052368493641_1521707488770968748_n.jpg?stp=c0.158.1440.1440a_dst-jpg_tt6&cstp=mx1440x1440&ctp=s206x206&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=OauRToP7YuQQ7kNvwFBfAaA&_nc_oc=AdoHgkLiHohxGirvhxJzfhJNYura5gbFpyoA6ANTZ1y8wX2x3OVOX2IGtZWJfNcxgEBUuE4RQZ6pvxhkRj24DUcn&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=vS3t4RoJXDqQKEBSfhuo7A&_nc_ss=7b2a8&oh=00_AQNfDVGCY4aXEdyz4tho19bys0MlNhHdxJt1VsIP4W_6zA&oe=6AD3F372",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117052368478671&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-4.fna.fbcdn.net/v/t39.30808-6/577842208_10117047475863511_2373835828802161442_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=Pvz1sUyatJQQ7kNvwFyvw2u&_nc_oc=AdoXgIo8hJdXq3Nre7ATn1Q79xjOWYIL6yggxQvvGADlqo0yPkl5sylgAaUMlinqLqj15kA2RVaNKD-kb71q03ZL&_nc_zt=23&_nc_ht=scontent.fasr1-4.fna&_nc_gid=vS3t4RoJXDqQKEBSfhuo7A&_nc_ss=7b2a8&oh=00_AQNC1GYCsoB_Q5q_VNWWPxccgHOoG73bXoW7g1D7sBlMlw&oe=6AD402A0",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117047475858521&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-2.fna.fbcdn.net/v/t39.30808-6/579217319_10117047475648941_2869548241888803646_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=qpTanup-fkIQ7kNvwHea073&_nc_oc=Adqg2ZG3VfsLhRPefxZJblsuQu-NfkTT04iqhGBNilUIrEV1AkZiO0zSneudcuAZ4FNQVvfNEO1lwgU_J8wBERPX&_nc_zt=23&_nc_ht=scontent.fasr1-2.fna&_nc_gid=p1CDKNJqX0-IHjv-frtiuQ&_nc_ss=7b2a8&oh=00_AQMrlfn9uWyZAjydW_08xpsa-EkzRiB9l-maua9eKCGW-Q&oe=6AD40309",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117047475638961&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        },
+        {
+            "gorsel": "https://scontent.fasr1-1.fna.fbcdn.net/v/t39.30808-6/577447598_10117047475643951_95587068661842112_n.jpg?stp=c0.135.1638.1638a_dst-jpg_tt6&cstp=mx1638x1638&ctp=s206x206&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=714c7a&_nc_ohc=M8zygxt0hBcQ7kNvwEf5ty3&_nc_oc=AdqiUKoa-UvBTlgeQsNI9yWJgY0cUyZIMVQHSEq_8y1ET7LlqIH2PlPEtP0TBs2xm-AKQcRnIompJqvnKe93OMcQ&_nc_zt=23&_nc_ht=scontent.fasr1-1.fna&_nc_gid=p1CDKNJqX0-IHjv-frtiuQ&_nc_ss=7b2a8&oh=00_AQPmBsTDku59cEItcagPdTzvcqW4krY6H2cm19JxuE916A&oe=6AD411F2",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=10117047475614011&set=pb.4.-2207520000&type=3",
+            "aciklama": "Fotoğraf açıklaması yok."
+        }
+    ],
+    "cekilis_tarihi": "2026-10-13 16:36:04"
+}
