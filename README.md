@@ -9,14 +9,16 @@ Bu proje, Facebook profillerinden veri çekmek için geliştirilmiş gelişmiş 
 
 ## 🌟 Özellikler
 
-- **Otomatik Giriş:** Facebook hesabınıza otomatik olarak giriş yapar.
+- **Otomatik Giriş:** Facebook hesabınıza otomatik olarak giriş yapar. İki adımlı doğrulama veya güvenlik kontrolü çıkarsa tarayıcıda elle tamamlamanız için 180 saniye bekler.
 - **Kapsamlı Profil Veri Kazıma:** Aşağıdaki verileri çeker:
     - Temel bilgiler (isim, profil fotoğrafı, kapak fotoğrafı)
-    - Hakkında bilgileri (iş, eğitim, yaşadığı yer vb.)
-    - Son paylaşımlar (metin, tarih, beğeni sayısı, yorum sayısı)
+    - Kişisel detaylar (yaşadığı yer, memleket, doğum tarihi)
+    - Son paylaşımlar (metin, bağlantı, ifade / yorum / paylaşım sayısı)
     - Arkadaş listesi (isim, profil bağlantısı)
-    - Fotoğraflar (galeri bağlantıları)
-- **Proxy Desteği:** HTTP ve SOCKS5 proxy'leri ile IP adresinizi gizleyerek anonim kazıma yapabilirsiniz.
+    - Fotoğraflar (görsel, bağlantı, açıklama)
+- **Kalıcı Seçiciler:** Sık değişen otomatik CSS sınıfları yerine `role`, `aria-label`, `data-ad-rendering-role` ve bölüm başlıkları kullanılır.
+- **Debug Modu:** Seçiciler bozulduğunda her sayfanın HTML'ini ve ekran görüntüsünü kaydederek inceleme imkânı sunar.
+- **Proxy Desteği:** HTTP ve SOCKS5 proxy'leri ile kazıma yapabilirsiniz.
 - **Proxy Rotasyonu:** Birden fazla proxy kullanarak engellenme riskini azaltır.
 - **Detaylı Loglama:** Hata ayıklama ve izleme için kapsamlı log kayıtları tutar.
 - **JSON Çıktı:** Verileri kolayca işlenebilir JSON formatında kaydeder.
@@ -29,13 +31,15 @@ Bu proje, Facebook profillerinden veri çekmek için geliştirilmiş gelişmiş 
 1.  **Depoyu Klonlayın:**
 
     ```bash
-    git clone https://github.com/kullaniciadi/facebook-scraper.git
+    git clone https://github.com/gulezgin/facebook-scraper.git
     cd facebook-scraper
     ```
 
-2.  **Gerekli Kütüphaneleri Yükleyin:**
+2.  **Sanal Ortam Oluşturun ve Gerekli Kütüphaneleri Yükleyin:**
 
     ```bash
+    python -m venv .venv
+    .venv\Scriptsctivate        # Windows (macOS / Linux: source .venv/bin/activate)
     pip install -r requirements.txt
     ```
 
@@ -52,27 +56,28 @@ Bu proje, Facebook profillerinden veri çekmek için geliştirilmiş gelişmiş 
             'email': 'your_email@example.com',
             'password': 'your_password',
             'headless': False,  # Arka planda çalıştırmak için True yapın
-            'log_level': logging.INFO
+            'log_level': logging.INFO,
+            'debug': False      # True: sayfaların HTML'i ve ekran görüntüsü ciktilar/debug klasörüne kaydedilir
         }
         ```
+
+    -   ⚠️ Giriş bilgilerinizi içeren `main.py` dosyasını GitHub'a göndermeyin.
 
 ## ⚙️ Kullanım
 
 1.  **Proxy Listesini Güncelleyin (Opsiyonel):**
 
-    -   `main.py` dosyasında `get_proxy_list()` fonksiyonunu bulun ve proxy listenizi ekleyin:
+    -   `main.py` dosyasında `get_proxy_list()` fonksiyonunu bulun ve proxy listenizi ekleyin. Liste boşsa proxy kullanılmaz:
 
         ```python
         def get_proxy_list():
             return [
-                {
-                    "http": "http://proxy1.example.com:8080",
-                    "username": "user1",
-                    "password": "pass1"
-                },
-                # Daha fazla proxy ekleyin
+                {"http": "http://proxy1.example.com:8080"},
+                {"socks5": "proxy2.example.com:1080"},
             ]
         ```
+
+    -   Not: Chrome, kullanıcı adı / şifre gerektiren proxy'leri komut satırı ayarıyla desteklemez; kimlik doğrulamasız ya da IP yetkilendirmeli proxy kullanın.
 
 2.  **Çekmek İstediğiniz Profilleri Ekleyin:**
 
@@ -93,38 +98,58 @@ Bu proje, Facebook profillerinden veri çekmek için geliştirilmiş gelişmiş 
 
 ## 📂 Çıktılar
 
-Veriler, `ciktilar` klasörüne JSON formatında kaydedilir. Her kazıma işlemi için benzersiz bir dosya adı oluşturulur:
+Veriler, `ciktilar` klasörüne `facebook_data_YYYYAAGG_SSDDSS.json` adıyla JSON formatında kaydedilir.
 
 JSON çıktı formatı örneği:
-json
-{
-"temel_bilgiler": {
-"isim": "Mark Zuckerberg",
-"profil_fotografi": "https://example.com/profile.jpg",
-"kapak_fotografi": "https://example.com/cover.jpg"
-},
-"hakkinda": {
-"calisma_egitim": ["CEO at Meta", "Studied at Harvard University"],
-"yasadigi_yer": "Menlo Park, California"
-},
-"paylasimlar": [
-{
-"metin": "Hello world!",
-"tarih": "2024-03-01",
-"begeni_sayisi": 1000,
-"yorum_sayisi": 500
-}
-],
-"arkadaslar": [
-{
-"isim": "Friend 1",
-"profil_linki": "https://www.facebook.com/friend1"
-}
-],
-"fotograflar": ["https://example.com/photo1.jpg", "https://example.com/photo2.jpg"],
-"cekilis_tarihi": "2024-03-01 12:34:56"
-}
 
+```json
+{
+    "temel_bilgiler": {
+        "isim": "Mark Zuckerberg",
+        "profil_fotografi": "https://scontent.xx.fbcdn.net/...",
+        "kapak_fotografi": "https://scontent.xx.fbcdn.net/..."
+    },
+    "hakkinda": {
+        "kisisel_detaylar": ["Palo Alto'da yaşıyor", "Memleketi Dobbs Ferry, New York", "14 Mayıs 1984"],
+        "yasadigi_yer": "Palo Alto",
+        "memleket": "Dobbs Ferry, New York",
+        "dogum_tarihi": "14 Mayıs 1984"
+    },
+    "paylasimlar": [
+        {
+            "metin": "A decade of smoking meats",
+            "baglanti": "https://www.facebook.com/4/videos/...",
+            "begeni_sayisi": 55600,
+            "yorum_sayisi": 8700,
+            "paylasim_sayisi": 6700
+        }
+    ],
+    "arkadaslar": [
+        {
+            "isim": "Arkadaş Adı",
+            "profil_linki": "https://www.facebook.com/profile.php?id=..."
+        }
+    ],
+    "fotograflar": [
+        {
+            "gorsel": "https://scontent.xx.fbcdn.net/...",
+            "baglanti": "https://www.facebook.com/photo.php?fbid=...",
+            "aciklama": "karpuz görseli olabilir"
+        }
+    ],
+    "cekilis_tarihi": "2026-10-13 16:36:04"
+}
+```
+
+Varsayılan sınırlar: en fazla 20 paylaşım, 100 arkadaş ve 50 fotoğraf (`_get_posts`, `_get_friends`, `_get_photos` parametreleriyle değiştirilebilir).
+
+### Bilinen Sınırlamalar
+
+-   **Paylaşım tarihi çekilemez:** Facebook tarihleri HTML içinde karıştırarak gösterir.
+-   **Bazı paylaşımların bağlantısı yoktur:** Reels gibi paylaşımlarda `baglanti` alanı `"Bulunamadı"` olur.
+-   **Sayaçlar sıraya göre okunur:** ifade, yorum ve paylaşım sayıları bu sırayla okunur; yorumu olmayan paylaşımlarda kayma olabilir.
+-   **Türkçe arayüz gerekir:** Bölüm başlıkları ("Kişisel detaylar", "Arkadaşlar", "Fotoğraflar") Türkçe metinle aranır.
+-   **Facebook arayüzü değişebilir:** Veriler gelmezse `debug` modunu açıp `ciktilar/debug` klasöründeki HTML dosyalarını inceleyin.
 
 ## ⚠️ Güvenlik ve Yasal Uyarılar
 

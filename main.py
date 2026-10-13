@@ -6,22 +6,13 @@ import random
 
 def get_proxy_list() -> List[Dict[str, str]]:
     """
-    Proxy listesini döndürür. Bu örnekte statik bir liste kullanılmıştır.
+    Proxy listesini döndürür. Liste boşsa proxy kullanılmaz.
     Gerçek uygulamada proxy'leri bir servisten veya dosyadan okuyabilirsiniz.
+    Örnek:
+        {"http": "http://proxy1.example.com:8080"}
+        {"socks5": "proxy2.example.com:1080"}
     """
-    return [
-        {
-            "http": "http://proxy1.example.com:8080",
-            "username": "user1",
-            "password": "pass1"
-        },
-        {
-            "socks5": "proxy2.example.com:1080",
-            "username": "user2",
-            "password": "pass2"
-        },
-        # Daha fazla proxy ekleyebilirsiniz
-    ]
+    return []
 
 def main():
     # Yapılandırma
@@ -29,7 +20,8 @@ def main():
         'email': 'your_email@example.com',
         'password': 'your_password',
         'headless': False,
-        'log_level': logging.INFO
+        'log_level': logging.INFO,
+        'debug': False  # True yapılırsa sayfaların HTML'i ve ekran görüntüsü ciktilar/debug klasörüne kaydedilir
     }
     
     # Proxy listesini al
@@ -57,7 +49,8 @@ def main():
                     password=config['password'],
                     proxy=current_proxy,
                     headless=config['headless'],
-                    log_level=config['log_level']
+                    log_level=config['log_level'],
+                    debug=config['debug']
                 )
                 
                 try:
@@ -73,6 +66,9 @@ def main():
                             # Verileri kaydet
                             scraper.save_to_file(profile_data, filename)
                             success = True
+                    
+                    if not success:
+                        retry_count += 1
                             
                 except Exception as e:
                     logging.error(f"Veri çekme hatası: {str(e)}")
